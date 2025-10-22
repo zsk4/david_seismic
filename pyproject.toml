@@ -7,7 +7,13 @@ authors = [
     { name = "zsk4", email = "zachary_katz@mines.edu" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.0.1",
+    "matplotlib>=3.10.7",
+    "obspy>=1.4.2",
+    "segyio>=1.9.13",
+    "xarray[io]>=2025.10.1",
+]
 
 [project.scripts]
 david-seismic = "david_seismic:main"
