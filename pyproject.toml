@@ -8,11 +8,15 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "cartopy>=0.25.0",
     "ipykernel>=7.0.1",
     "matplotlib>=3.10.7",
     "obspy>=1.4.2",
+    "pyastronomy>=0.24.0",
+    "pyshp>=3.0.2.post1",
     "scikit-learn>=1.7.2",
     "segyio>=1.9.13",
+    "shapely>=2.1.2",
     "xarray[io]>=2025.10.1",
 ]
 
