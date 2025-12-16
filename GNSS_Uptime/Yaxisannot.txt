@@ -1,0 +1,11 @@
+1   a   KGPS06
+2	a   KGPS07
+3	a   KGPS08
+4   a   KGPS11
+5   a   KGPS13
+6   a   KGPS15
+7   a   KGPS16
+8   a   KGPS17   
+9	a   KGPS18
+10	a   KGPS25
+11  a   KGPS32

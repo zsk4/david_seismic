@@ -8,7 +8,9 @@ authors = [
 ]
 requires-python = ">=3.12"
 dependencies = [
+    "astropy>=7.2.0",
     "cartopy>=0.25.0",
+    "geopandas>=1.1.1",
     "ipykernel>=7.0.1",
     "matplotlib>=3.10.7",
     "obspy>=1.4.2",
